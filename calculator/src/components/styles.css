@@ -1,0 +1,9 @@
+.numberKey {
+    width: 100px;
+    height: 100px;
+}
+
+.numberKey .number {
+    font-size: large;
+    size: 100px;
+}
